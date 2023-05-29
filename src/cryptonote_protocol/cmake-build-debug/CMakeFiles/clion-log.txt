@@ -1,0 +1,14 @@
+/opt/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/igor/workarea/safexcore/src/cryptonote_protocol
+-- The CXX compiler identification is GNU 7.4.0
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Error at CMakeLists.txt:38 (safex_add_library):
+  Unknown CMake command "safex_add_library".
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/igor/workarea/safexcore/src/cryptonote_protocol/cmake-build-debug/CMakeFiles/CMakeOutput.log".
